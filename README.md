@@ -1,12 +1,12 @@
 # Drug-Classification
 
-This is a simple machine learning project about choosing the type of drug that is needed for specific age and health conditions. This project used SVM and Decision Tree and compare them to determine which methods works better for this dataset
+This is a simple machine learning project about choosing the type of drug that is needed for specific age and health conditions. This project used SVM and Decision Tree and compared them to determine which method is better for this dataset
 
 The dataset is from Kaggle: 
 https://www.kaggle.com/datasets/ibrahimbahbah/drug200
 
 ## Pre modeling
-1. Import pandas library in Python
+1. Import the necessary libraries
 2. Read the CSV file for the dataset to see the data in tables
 3. Prepare the data for training by changing the data types for Blood Pressure, Cholesterol, and Sex Variables
 4. Change the decimal for NA_to_K to 0
